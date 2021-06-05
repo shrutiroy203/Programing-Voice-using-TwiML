@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Pause length="1"></Pause>
+  <Say voice="Polly.Matthew">Welcome Shruti </Say> 
+  <Say voice="Polly.Matthew">Enter the code followed by pound key</Say>
+    <Gather action="http://34.213.200.231:5000" method="GET">
+    </Gather> 
+</Response>
